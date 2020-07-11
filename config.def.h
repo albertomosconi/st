@@ -242,6 +242,14 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
     { ShiftMask,            XK_Page_Up,     kscrollup,      {.i = -1} },
 	{ ShiftMask,            XK_Page_Down,   kscrolldown,    {.i = -1} },
+    { MODKEY,               XK_Page_Up,     kscrollup,      {.i = -1} },
+	{ MODKEY,               XK_Page_Down,   kscrolldown,    {.i = -1} },
+    { MODKEY,               XK_k,           kscrollup,      {.i =  1} },
+	{ MODKEY,               XK_j,           kscrolldown,    {.i =  1} },
+	{ MODKEY,               XK_Up,          kscrollup,      {.i =  1} },
+	{ MODKEY,               XK_Down,        kscrolldown,    {.i =  1} },
+	{ MODKEY,               XK_u,           kscrollup,      {.i = -1} },
+	{ MODKEY,               XK_d,           kscrolldown,    {.i = -1} },
 };
 
 /*
