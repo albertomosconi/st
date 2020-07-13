@@ -20,5 +20,5 @@ Clone this repository in whatever folder you want to keep the source code in, th
 ```
 
 ## Screenshots
-![blue](https://raw.githubusercontent.com/albertomosconi/st/master/screens/blue.png "blue")
-![nvim](https://raw.githubusercontent.com/albertomosconi/st/master/screens/nvim.png "blue")
+![blue](https://raw.githubusercontent.com/albertomosconi/st/master/screens/purple.png "purple")
+![nvim](https://raw.githubusercontent.com/albertomosconi/st/master/screens/neovim.png "neovim")
