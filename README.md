@@ -22,3 +22,7 @@ Clone this repository in whatever folder you want to keep the source code in, th
   cd st
   sudo make clean install
 ```
+
+## Screenshots
+![blue](https://raw.githubusercontent.com/albertomosconi/st/master/screens/blue.png "blue")  
+![nvim](https://raw.githubusercontent.com/albertomosconi/st/master/screens/nvim.png "blue")
