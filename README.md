@@ -17,7 +17,7 @@ This patch adds proper drawing of ligatures. The code uses Harfbuzz library to t
 
 ## Installation
 Clone this repository in whatever folder you want to keep the source code in, then go in the cloned directory and build the package:
-```
+```bash
   git clone https://www.github.com/albertomosconi/st
   cd st
   sudo make clean install
